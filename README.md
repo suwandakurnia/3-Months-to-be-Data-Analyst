@@ -1,4 +1,5 @@
 # 3-Months-to-be-Data-Analyst
+31 Juli 2022 saya memulai untuk belajar menjadi Data Analyst.
 Repository ini menjadi tempat penyimpanan belajar saya menjadi Data Analyst selama 3 Bulan
 
 Semua perkembangan perminggu ini merupakan hasil yang saya ikuti dari https://github.com/codebasics/py/blob/master/TechTopics/DataAnalystRoadMap2020/data_analyst_learning_path_2020.md
