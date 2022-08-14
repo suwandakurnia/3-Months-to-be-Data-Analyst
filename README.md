@@ -1,7 +1,7 @@
 # 3-Months-to-be-Data-Analyst
 Repository ini menjadi tempat penyimpanan belajar saya menjadi Data Analyst selama 3 Bulan
 
-Semua progress perminggu ini merupakan hasil yang saya ikuti dari https://github.com/codebasics/py/blob/master/TechTopics/DataAnalystRoadMap2020/data_analyst_learning_path_2020.md
+Semua perkembangan perminggu ini merupakan hasil yang saya ikuti dari https://github.com/codebasics/py/blob/master/TechTopics/DataAnalystRoadMap2020/data_analyst_learning_path_2020.md
 
 1. Minggu 1 dan 2:        saya belajar lebih dalam mengenai Excel and Statistics
 2. Minggu 3, 4, dan 5:    saya belajar tentang BI tools dan Tableau
